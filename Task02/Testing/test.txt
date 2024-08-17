@@ -1,0 +1,40 @@
+source: 2922, target: 1297
+CH: 4917.40549, time: 0.0 seconds, search space: 158
+Dijkstra: 4917.40549, time 0.0 seconds, search space: 3389
+TNR: 4917.40549, time: 0.0 seconds
+source: 2191, target: 3214
+CH: 2014.88132, time: 0.0 seconds, search space: 103
+Dijkstra: 2014.88132, time 0.0 seconds, search space: 1266
+TNR: 2014.88132, time: 0.0 seconds
+source: 2879, target: 3944
+CH: 6055.24504, time: 0.0 seconds, search space: 127
+Dijkstra: 6055.24504, time 0.00977 seconds, search space: 3932
+TNR: 6055.24504, time: 0.0 seconds
+source: 1574, target: 1436
+CH: 3740.78485, time: 0.0 seconds, search space: 137
+Dijkstra: 3740.78485, time 0.0 seconds, search space: 2820
+TNR: 3740.78485, time: 0.0 seconds
+source: 2356, target: 3283
+CH: 1730.38476, time: 0.0 seconds, search space: 71
+Dijkstra: 1730.38476, time 0.0 seconds, search space: 934
+TNR: 1730.38476, time: 0.0 seconds
+source: 806, target: 684
+CH: 2572.24499, time: 0.0 seconds, search space: 101
+Dijkstra: 2572.24499, time 0.00174 seconds, search space: 1192
+TNR: 2572.24499, time: 0.0 seconds
+source: 1873, target: 591
+CH: 1923.65996, time: 0.0 seconds, search space: 77
+Dijkstra: 1923.65996, time 0.0 seconds, search space: 604
+TNR: 1923.65996, time: 0.0 seconds
+source: 1482, target: 4026
+CH: 11019.37086, time: 0.0 seconds, search space: 160
+Dijkstra: 11019.37086, time 0.00833 seconds, search space: 4225
+TNR: 11019.37086, time: 0.0 seconds
+source: 2088, target: 615
+CH: 2289.26171, time: 0.0 seconds, search space: 97
+Dijkstra: 2289.26171, time 0.001 seconds, search space: 1323
+TNR: 2289.26171, time: 0.0 seconds
+source: 258, target: 3027
+CH: 2242.35181, time: 0.00099 seconds, search space: 85
+Dijkstra: 2242.35181, time 0.001 seconds, search space: 1957
+TNR: 2242.35181, time: 0.0 seconds

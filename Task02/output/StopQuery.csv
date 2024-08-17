@@ -1,0 +1,54 @@
+StopId,Code,Name,StopType,Zone,Ward,AddressNo,Street,SupportDisability,Status,Lng,Lat,Search,Routes,RouteId,RouteVarId
+35,BX 01,Bến xe buýt Sài Gòn,Bến xe,Quận 1,Phường Phạm Ngũ Lão,BẾN XE BUÝT SÀI GÒN,Lê Lai,Có,Đang khai thác,106.689362,10.767676,BxbSG BXBSG LL,"03, 04, 102, 109, 120, 13, 140, 18, 19, 20, 27, 28, 34, 36, 39, 52, 61-6, 65, 69, 70-3, 72, 75, 86, 88, 93, D1",3,5
+7276,Q1 190,Tôn Thất Tùng,Trụ dừng,Quận 1,Phường Phạm Ngũ Lão,277-279-275Y,Phạm Ngũ Lão,Có,Đang khai thác,106.690941,10.76767,TTT 277-279-275Y PNL,"03, 04, 102, 109, 140, 18, 19, 20, 28, 34, 36, 39, 46, 52, 65, 69, 72, 75, 86, 88, 93",3,5
+7277,Q1 191,Nguyễn Thị Nghĩa,Trụ dừng,Quận 1,Phường Phạm Ngũ Lão,187,Phạm Ngũ Lão,Có,Đang khai thác,106.693699,10.768788,NTN 187 PNL,"03, 04, 102, 109, 140, 18, 19, 20, 28, 34, 36, 39, 46, 52, 65, 69, 72, 93, DL01",3,5
+7278,Q1 192,Trường Emst Thalmann,Nhà chờ,Quận 1,Phường Phạm Ngũ Lão,Trường Emst Thalmann,Phạm Ngũ Lão,Có,Đang khai thác,106.695587,10.769504,TET TET PNL,"03, 04, 102, 109, 18, 19, 20, 34, 36, 39, 52, 65, 69, 93",3,5
+7265,Q1 179,Trạm Trung chuyển trên đường Hàm Nghi,Nhà chờ,Quận 1,Phường Nguyễn Thái Bình,Hàm nghi 5,Hàm Nghi,Có,Đang khai thác,106.700259,10.770911,TTctdHN Hn5 HN,"03, 45, 53, 61-6, D1",3,5
+7266,Q1 180,Trạm Trung chuyển trên đường Hàm Nghi,Nhà chờ,Quận 1,Phường Nguyễn Thái Bình,Hàm Nghi 7,Hàm Nghi,Có,Đang khai thác,106.700807,10.770896,TTctdHN HN7 HN,"01, 03, 04, 19, 56, 88",3,5
+7693,Q1 1950,Nam Kỳ Khởi Nghĩa,Nhà chờ,Quận 1,Phường Nguyễn Thái Bình,93-95,Hàm Nghi,Có,Đang khai thác,106.701354,10.770875,NKKN 93-95 HN,"01, 03, 04, 19, 88",3,5
+1256,Q1 195,Chợ Cũ,Nhà chờ,Quận 1,Phường Nguyễn Thái Bình,89A,Hàm Nghi,,Đang khai thác,106.701998,10.770811,CC 89A HN,"01, 03, 04, 152, 18, 19, 31, 36, 45, 52, 56, 61-6, 75, 86, 88, 93",3,5
+7588,Q1 200,Giao lộ Hàm Nghi - Tôn Thất Đạm,Nhà chờ,Quận 1,Phường Nguyễn Thái Bình,81-83-83B,Hàm Nghi,,Đang khai thác,106.703038,10.77078,GlHN-TTD 81-83-83B HN,03,3,5
+32,Q1 017,Hồ Tùng Mậu,Nhà chờ,Quận 1,Phường Nguyễn Thái Bình,67,Hàm Nghi,,Đang khai thác,106.704074,10.770722,HTM 67 HN,"01, 03, 120, 19, 20, 45, 56, 61-6, 75, 88, D1, DL01",3,5
+31,Q1 024,Bến Bạch Đằng,Nhà chờ,Quận 1,,Bến thủy nội địa Thủ Thiêm,Tôn Đức Thắng,,Đang khai thác,106.706654,10.774094,BBD BtndTT TDT,"01, 03, 19, 45, 53, 56, 61-6, 88, D1, DL01",3,5
+34,Q1 057,Công Trường Mê Linh,Nhà chờ,Quận 1,,2,Hai Bà Trưng,,Đang khai thác,106.705822,10.775997,CTML 2 HBT,"01, 03, 19, 45",3,5
+42,Q1 058,Nhà Hát Thành Phố,Ô sơn,Quận 1,,74/A2-74/A4,Hai Bà Trưng,,Đang khai thác,106.703559,10.778031,NHTP 74/A2-74/A4 HBT,"03, 19, 45",3,5
+44,Q1 059,Bệnh viện Nhi Đồng 2,Nhà chờ,Quận 1,,Đối diện 115Ter,Hai Bà Trưng,,Đang khai thác,106.701536,10.779881,BvND2 Dd115Ter HBT,"03, 19, 45",3,5
+39,Q1 060,Bưu Điện Thành Phố,Trụ dừng,Quận 1,,86,Hai Bà Trưng,,Đang khai thác,106.700673,10.780645,BDTP 86 HBT,"03, 19, 45",3,5
+41,Q1 061,Sở Công Thương,Nhà chờ,Quận 1,,142,Hai Bà Trưng,,Đang khai thác,106.696526,10.784297,SCT 142 HBT,"03, 31",3,5
+43,Q1 062,Công viên Lê Văn Tám,Nhà chờ,Quận 1,,Đối diện 245,Hai Bà Trưng,,Đang khai thác,106.692599,10.787427,CvLVT Dd245 HBT,"03, 31, 36",3,5
+46,Q1 063,Nhà thờ Tân Định,Trụ dừng,Quận 1,,298,Hai Bà Trưng,,Đang khai thác,106.690399,10.789215,NtTD 298 HBT,"03, 31, 36",3,5
+47,Q1 064,Chợ Tân Định,Trụ dừng,Quận 1,,372-374,Hai Bà Trưng,,Đang khai thác,106.688843,10.790456,CTD 372-374 HBT,"03, 31, 36",3,5
+45,QPN 012,Cầu Kiệu,Ô sơn,Quận Phú Nhuận,,28 - 30,Phan Đình Phùng,,Đang khai thác,106.68481,10.79365,CK 28-30 PDP,03,3,5
+49,QPN 013,Chợ Phú Nhuận,Ô sơn,Quận Phú Nhuận,,158 - 160,Phan Đình Phùng,,Đang khai thác,106.683018,10.795062,CPN 158-160 PDP,03,3,5
+48,QPN 014,Trường Cao đẳng Kinh tế Đối ngoại,Ô sơn,Quận Phú Nhuận,,312 - 314,Phan Đình Phùng,,Đang khai thác,106.680905,10.79795,TCdKtDn 312-314 PDP,03,3,5
+50,QPN 001,Ngã tư Phú Nhuận,Trụ dừng,Quận Phú Nhuận,,392,Nguyễn Kiệm,,Đang khai thác,106.680138,10.799713,NtPN 392 NK,"03, 55",3,5
+51,QPN 002,Nhà Truyền Thông,Trụ dừng,Quận Phú Nhuận,,466,Nguyễn Kiệm,,Đang khai thác,106.679245,10.802232,NTT 466 NK,"03, 55",3,5
+52,QPN 003 ,Ngã ba Hồ Văn Huê,Trụ dừng,Quận Phú Nhuận,,582,Nguyễn Kiệm,,Đang khai thác,106.678759,10.805259,NbHVH 582 NK,"03, 55",3,5
+53,QPN 004,Coop Mart Nguyễn Kiệm,Trụ dừng,Quận Phú Nhuận,,668-670,Nguyễn Kiệm,,Đang khai thác,106.678528,10.807077,CMNK 668-670 NK,"03, 55",3,5
+54,QPN 005,Chùa Vạn Hạnh,Nhà chờ,Quận Phú Nhuận,,750,Nguyễn Kiệm,,Đang khai thác,106.67856,10.810349,CVH 750 NK,"03, 55",3,5
+55,QGV 125,Trường Cao đẳng Hải Quan,Nhà chờ,Quận Gò Vấp,,780A,Nguyễn Kiệm,,Đang khai thác,106.678711,10.812475,TCdHQ 780A NK,"03, 55",3,5
+56,QGV 040,Cầu vượt Nguyễn Thái Sơn - Nguyễn Kiệm,Trụ dừng,Quận Gò Vấp,,86 - 86C,Nguyễn Thái Sơn,,Đang khai thác,106.680443,10.816282,CvNTS-NK 86-86C NTS,"03, 07, 103, 148, 55, 59",3,5
+57,QGV 042,Ngã ba Phạm Ngũ Lão,Trụ dừng,Quận Gò Vấp,,182,Nguyễn Thái Sơn,,Đang khai thác,106.683147,10.819712,NbPNL 182 NTS,"03, 07, 103, 148, 55, 59",3,5
+60,QGV 187 ,Cầu vượt ngã sáu Gò Vấp,Trụ dừng,Quận Gò Vấp,,140-142,Phạm Ngũ Lão ,,Đang khai thác,106.681221,10.824607,CvnsGV 140-142 PNL,"03, 07, 103, 148, 55, 59",3,5
+58,QGV 104,Cầu vượt ngã sáu Gò Vấp,Trụ dừng,Quận Gò Vấp,,110-112,Nguyễn Oanh,,Đang khai thác,106.678775,10.828991,CvnsGV 110-112 NO,"03, 59",3,5
+62,QGV 106,Ngã tư Phan Văn Trị,Nhà chờ,Quận Gò Vấp,,152,Nguyễn Oanh,,Đang khai thác,106.676699,10.832547,NtPVT 152 NO,"03, 59",3,5
+67,QGV 107,Cư xá Lam Sơn,Nhà chờ,Quận Gò Vấp,,214,Nguyễn Oanh,,Đang khai thác,106.67561,10.836114,CxLS 214 NO,"03, 59",3,5
+63,QGV 108,Đài Liệt sĩ,Nhà chờ,Quận Gò Vấp,,Đối diện 197 (93),Nguyễn Oanh,,Đang khai thác,106.67583,10.839297,DLs Dd197( NO,"03, 59",3,5
+72,QGV 109,Ngã tư An Nhơn,Trụ dừng,Quận Gò Vấp,,388,Nguyễn Oanh,,Đang khai thác,106.676833,10.842268,NtAN 388 NO,"03, 32, 59",3,5
+64,QGV 110,Bến Đò,Trụ dừng,Quận Gò Vấp,,538,Nguyễn Oanh,,Đang khai thác,106.678496,10.84691,BD 538 NO,"03, 32, 59",3,5
+4754,QGV 111,Cầu An Lộc,Trụ dừng,Quận Gò Vấp,Phường 06,604,Nguyễn Oanh,Có,Đang khai thác,106.678802,10.849117,CAL 604 NO,"03, 32, 59",3,5
+73,Q12 032,Nhà hàng Bến Xưa,Trụ dừng,Quận 12,,42,Hà Huy Giáp,,Đang khai thác,106.679285,10.852642,NhBX 42 HHG,"03, 32, 59",3,5
+213,Q12 033,Ngã tư Ga,Trụ dừng,Quận 12,,154,Hà Huy Giáp,,Đang khai thác,106.679907,10.857331,NtG 154 HHG,"03, 32, 59",3,5
+68,Q12 034,Đình thần Giao Khẩu,Trụ dừng,Quận 12,,332,Hà Huy Giáp,,Đang khai thác,106.680433,10.865217,DtGK 332 HHG,"03, 58",3,5
+74,Q12 035,Cây xăng Tài Lộc,Trụ dừng,Quận 12,,408B,Hà Huy Giáp,,Đang khai thác,106.678319,10.86831,CxTL 408B HHG,"03, 58",3,5
+69,Q12 036,Vườn kiểng Quang Dũng,Trụ dừng,Quận 12,,452,Hà Huy Giáp,,Đang khai thác,106.676978,10.871371,VkQD 452 HHG,"03, 58",3,5
+70,Q12 037,Ga ra Thanh Hậu,Trụ dừng,Quận 12,,508,Hà Huy Giáp,,Đang khai thác,106.677032,10.875454,GrTH 508 HHG,"03, 58",3,5
+71,Q12 038,Chợ Thạnh Xuân,Nhà chờ,Quận 12,,Nhà văn hóa P. Thạnh Lộc,Hà Huy Giáp,,Đang khai thác,106.678201,10.878493,CTX NvhPTL HHG,"03, 58",3,5
+77,Q12 039,Trường Điện lực 2,Trụ dừng,Quận 12,,554 ,Hà Huy Giáp,,Đang khai thác,106.679188,10.880785,TDl2 554 HHG,"03, 58",3,5
+3204,Q12 040,Trường Nguyễn Văn Thệ,Trụ dừng,Quận 12,,628B,Hà Huy Giáp,,Đang khai thác,106.681296,10.884562,TNVT 628B HHG,"03, 58",3,5
+3203,Q12 041,Cây xăng Thanh Bình,Trụ dừng,Quận 12,,704,Hà Huy Giáp,,Đang khai thác,106.68305,10.886253,CxTB 704 HHG,"03, 58",3,5
+3206,Q12 042,Cầu Ông Dung,Trụ dừng,Quận 12,,1/111,Hà Huy Giáp,,Đang khai thác,106.685185,10.88876,COD 1/111 HHG,"03, 58",3,5
+3259,Q12 043,Cầu Phú Long,Trụ dừng,Quận 12,,856,Hà Huy Giáp,,Đang khai thác,106.687031,10.892079,CPL 856 HHG,"03, 58",3,5
+3207,Q12T117,Chùa Báo Ấn,Ô sơn,Quận 12,,938,Hà Huy Giáp,,Đang khai thác,106.688619,10.89486,CBA 938 HHG,"03, 58",3,5
+3210,Q12 232,Chợ Đường,Ô sơn,Quận 12,,18,Bùi Công Trừng,,Đang khai thác,106.689101,10.897721,CD 18 BCT,"03, 58",3,5
+75,BX38,THẠNH LỘC,Bến xe,Quận 12,,"Thửa đất số 413 tờ bản đồ số 04, phường Thạnh Xuân, Quận 12",Thạnh Lộc 52,,Đang khai thác,106.673427,10.89288,"TL Tds413tbds04,pTXQ12 TL52",03,3,5

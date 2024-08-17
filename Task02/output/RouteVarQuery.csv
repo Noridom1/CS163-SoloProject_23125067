@@ -1,0 +1,3 @@
+RouteId,RouteVarId,RouteVarName,RouteVarShortName,RouteNo,StartStop,EndStop,Distance,Outbound,RunningTime
+38,78,Lượt về: Bến xe Tân Phú - Bến xe Chợ Lớn,Bến xe buýt Chợ Lớn,16,Bến xe buýt Tân Phú,Bến xe buýt Chợ Lớn - B,17621.999999999993,False,55
+69,1,Lượt đi: Bến xe Tân Phú - Hiệp Thành,Chợ Hiệp Thành,48,Bến xe buýt Tân Phú,Bến xe buýt Hiệp Thành,21136.0,True,55
