@@ -41,7 +41,6 @@ class TNR():
                 self.TransitIndex[i] = index
                 self.isTransitNodes[i] = True
                 index += 1
-        #print(self.TransitNodes)
         self.NumTN = numTN
         self.TransitTable = [[self.G.INF for _ in range(self.NumTN)] for _ in range(self.NumTN)]
 
